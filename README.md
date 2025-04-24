@@ -98,3 +98,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [Adafruit RTClib](https://github.com/adafruit/RTClib)
 - Arduino community for awesome open-source libraries
 
+..................................................................................................
+..................................................................................................
+JUNAID SHABEER Experimental Physicist & IoT Developer.... LinkedIn:- www.linkedin.com/in/junaid-shabeer-machine-learning-physicist-b860a4285
