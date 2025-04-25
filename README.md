@@ -85,11 +85,7 @@ This will ring the bell at **08:30:00**, and store the "minhum" value `50` (can 
 - You can adjust the **bell duration** by changing `delay(5000)` to your preferred ringing duration.
 - The `minhum` variable is available for additional features such as logging or environmental control.
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
